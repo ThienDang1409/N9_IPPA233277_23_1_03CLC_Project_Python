@@ -1,0 +1,7 @@
+tạo database với MySQL:
+chạy các lệnh:
+ cài đặt MySQL: pip install mysqlclient
+ python manage.py dbshell
+ python manage.py shell
+ python manage.py makemigrations
+ python manage.py migrate
