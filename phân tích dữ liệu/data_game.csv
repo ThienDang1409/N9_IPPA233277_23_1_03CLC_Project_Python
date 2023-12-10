@@ -1,0 +1,250 @@
+player,name,sex,age,level,play_time,completed,ftime,bdate
+0,"Braund, Mr. Owen Harris",female,60,hard,11,0,0,7/24/1963
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",male,63,hard,21,1,0,1/27/1960
+2,"Heikkinen, Miss. Laina",male,37,easy,19,0,0,8/3/1986
+3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,40,hard,22,1,1,11/20/1983
+4,"Allen, Mr. William Henry",male,61,hard,10,1,2,5/9/1962
+5,"Moran, Mr. James",female,52,hard,17,1,4,5/27/1971
+6,"McCarthy, Mr. Timothy J",male,36,hard,18,0,0,5/18/1987
+7,"Palsson, Master. Gosta Leonard",female,25,hard,11,0,0,2/12/1998
+8,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",male,34,easy,14,1,0,8/13/1989
+9,"Nasser, Mrs. Nicholas (Adele Achem)",female,58,easy,17,0,0,8/31/1965
+10,"Sandstrom, Miss. Marguerite Rut",male,54,easy,5,0,0,9/12/1969
+11,"Bonnell, Miss. Elizabeth",male,53,hard,15,0,0,3/13/1970
+12,"Saundercock, Mr. William Henry",male,22,easy,13,1,1,1/20/2001
+13,"Andersson, Mr. Anders Johan",female,54,easy,9,0,0,12/31/1969
+14,"Vestrom, Miss. Hulda Amanda Adolfina",female,50,hard,17,1,2,1/7/1973
+15,"Hewlett, Mrs. (Mary D Kingcome)",male,38,medium,17,1,0,7/11/1985
+16,"Rice, Master. Eugene",male,31,medium,10,0,0,1/16/1992
+17,"Williams, Mr. Charles Eugene",female,41,hard,9,0,0,4/26/1982
+18,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,25,hard,21,1,4,7/19/1998
+19,"Masselmani, Mrs. Fatima",male,26,hard,11,0,0,9/16/1997
+20,"Fynney, Mr. Joseph J",male,56,easy,17,1,4,1/25/1967
+21,"Beesley, Mr. Lawrence",female,33,medium,10,1,2,11/4/1990
+22,"McGowan, Miss. Anna ""Annie""",male,39,easy,10,0,0,2/28/1984
+23,"Sloper, Mr. William Thompson",female,42,hard,21,1,0,8/27/1981
+24,"Palsson, Miss. Torborg Danira",male,13,hard,20,0,0,2/24/2010
+25,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,66,medium,9,0,0,12/15/1957
+26,"Emir, Mr. Farred Chehab",male,55,hard,7,1,3,9/23/1968
+27,"Fortune, Mr. Charles Alexander",female,15,hard,22,0,0,2/17/2008
+28,"O'Dwyer, Miss. Ellen ""Nellie""",female,39,easy,8,1,0,4/21/1984
+29,"Todoroff, Mr. Lalio",female,21,hard,21,0,0,12/24/2002
+30,"Uruchurtu, Don. Manuel E",female,15,hard,15,0,0,6/6/2008
+31,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,20,easy,13,0,0,7/3/2003
+32,"Glynn, Miss. Mary Agatha",female,53,hard,7,0,0,12/12/1970
+33,"Wheadon, Mr. Edward H",female,42,hard,6,0,0,1/4/1981
+34,"Meyer, Mr. Edgar Joseph",male,33,medium,22,0,0,9/26/1990
+35,"Holverson, Mr. Alexander Oskar",female,68,hard,14,1,2,12/9/1955
+36,"Mamee, Mr. Hanna",female,64,easy,7,0,0,8/23/1959
+37,"Cann, Mr. Ernest Charles",male,53,easy,17,1,0,12/18/1970
+38,"Vander Planke, Miss. Augusta Maria",female,63,medium,7,1,3,5/26/1960
+39,"Nicola-Yarred, Miss. Jamila",female,45,hard,16,1,4,7/2/1978
+40,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",male,65,hard,7,1,2,1/8/1958
+41,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,53,hard,20,1,3,7/8/1970
+42,"Kraeff, Mr. Theodor",female,35,easy,12,0,0,1/2/1988
+43,"Laroche, Miss. Simonne Marie Anne Andree",female,26,hard,6,0,0,8/10/1997
+44,"Devaney, Miss. Margaret Delia",male,18,hard,13,0,0,10/11/2005
+45,"Rogers, Mr. William John",male,42,hard,14,1,3,10/4/1981
+46,"Lennon, Mr. Denis",male,20,hard,5,1,1,11/2/2003
+47,"O'Driscoll, Miss. Bridget",male,37,medium,8,1,4,2/24/1986
+48,"Samaan, Mr. Youssef",male,52,hard,5,1,4,1/9/1971
+49,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,35,hard,14,1,1,1/31/1988
+50,"Panula, Master. Juha Niilo",male,47,medium,17,1,3,7/3/1976
+51,"Nosworthy, Mr. Richard Cater",male,17,hard,5,0,0,11/17/2006
+52,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",male,50,medium,9,1,3,7/23/1973
+53,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",male,14,hard,14,0,0,9/17/2009
+54,"Ostby, Mr. Engelhart Cornelius",male,21,medium,12,0,0,5/21/2002
+55,"Woolner, Mr. Hugh",male,24,hard,10,0,0,10/13/1999
+56,"Rugg, Miss. Emily",female,64,hard,17,0,0,3/17/1959
+57,"Novel, Mr. Mansouer",male,31,hard,21,1,2,10/20/1992
+58,"West, Miss. Constance Mirium",male,45,easy,9,1,4,9/16/1978
+59,"Goodwin, Master. William Frederick",female,20,easy,21,0,0,4/21/2003
+60,"Sirayanian, Mr. Orsen",male,25,medium,10,1,1,2/4/1998
+61,"Icard, Miss. Amelie",male,28,easy,17,1,2,9/20/1995
+62,"Harris, Mr. Henry Birkhardt",female,19,hard,16,1,0,3/25/2004
+63,"Skoog, Master. Harald",male,44,hard,16,0,0,10/15/1979
+64,"Stewart, Mr. Albert A",male,13,hard,14,0,0,5/18/2010
+65,"Moubarek, Master. Gerios",male,34,hard,16,0,0,1/26/1989
+66,"Nye, Mrs. (Elizabeth Ramell)",female,31,easy,9,1,3,9/16/1992
+67,"Crease, Mr. Ernest James",female,52,easy,8,0,0,11/20/1971
+68,"Andersson, Miss. Erna Alexandra",male,36,easy,10,1,3,12/17/1987
+69,"Kink, Mr. Vincenz",female,19,medium,12,1,2,8/16/2004
+70,"Jenkin, Mr. Stephen Curnow",male,30,hard,18,1,3,10/2/1993
+71,"Goodwin, Miss. Lillian Amy",male,49,medium,16,1,1,11/24/1974
+72,"Hood, Mr. Ambrose Jr",male,60,easy,19,0,0,7/25/1963
+73,"Chronopoulos, Mr. Apostolos",male,29,hard,22,1,4,6/28/1994
+74,"Bing, Mr. Lee",male,65,easy,8,1,0,10/17/1958
+75,"Moen, Mr. Sigurd Hansen",male,52,easy,13,0,0,7/2/1971
+76,"Staneff, Mr. Ivan",male,50,medium,9,1,3,9/8/1973
+77,"Moutal, Mr. Rahamin Haim",male,32,easy,14,1,2,8/1/1991
+78,"Caldwell, Master. Alden Gates",male,48,medium,11,1,0,9/17/1975
+79,"Dowdell, Miss. Elizabeth",male,34,hard,13,0,0,3/6/1989
+80,"Waelens, Mr. Achille",female,47,medium,21,1,1,6/28/1976
+81,"Sheerlinck, Mr. Jan Baptist",female,48,medium,16,1,0,5/23/1975
+82,"McDermott, Miss. Brigdet Delia",male,15,medium,16,0,0,11/3/2008
+83,"Carrau, Mr. Francisco M",male,38,hard,13,1,3,7/24/1985
+84,"Ilett, Miss. Bertha",female,51,easy,22,1,4,10/1/1972
+85,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",male,56,hard,7,1,3,8/24/1967
+86,"Ford, Mr. William Neal",female,34,medium,17,0,0,7/5/1989
+87,"Slocovski, Mr. Selman Francis",male,37,easy,7,0,0,3/16/1986
+88,"Fortune, Miss. Mabel Helen",female,18,easy,6,0,0,1/23/2005
+89,"Celotti, Mr. Francesco",male,38,hard,15,0,0,9/14/1985
+90,"Christmann, Mr. Emil",male,33,easy,10,1,1,1/2/1990
+91,"Andreasson, Mr. Paul Edvin",female,23,easy,8,1,0,6/27/2000
+92,"Chaffee, Mr. Herbert Fuller",female,22,hard,19,1,2,12/16/2001
+93,"Dean, Mr. Bertram Frank",male,17,medium,13,1,3,6/23/2006
+94,"Coxon, Mr. Daniel",male,34,easy,6,1,3,10/1/1989
+95,"Shorney, Mr. Charles Joseph",male,29,medium,6,1,2,4/25/1994
+96,"Goldschmidt, Mr. George B",male,22,medium,11,0,0,7/16/2001
+97,"Greenfield, Mr. William Bertram",female,22,hard,13,0,0,9/18/2001
+98,"Doling, Mrs. John T (Ada Julia Bone)",female,21,medium,14,1,4,6/1/2002
+99,"Kantor, Mr. Sinai",male,23,easy,15,0,0,5/1/2000
+100,"Petranec, Miss. Matilda",male,50,medium,5,1,1,10/2/1973
+101,"Petroff, Mr. Pastcho (""Pentcho"")",male,63,hard,5,1,1,5/26/1960
+102,"White, Mr. Richard Frasar",female,25,easy,5,0,0,8/10/1998
+103,"Johansson, Mr. Gustaf Joel",male,21,hard,13,0,0,12/7/2002
+104,"Gustafsson, Mr. Anders Vilhelm",male,35,easy,18,0,0,10/4/1988
+105,"Mionoff, Mr. Stoytcho",female,58,medium,15,0,0,1/4/1965
+106,"Salkjelsvik, Miss. Anna Kristine",female,30,medium,13,1,0,2/1/1993
+107,"Moss, Mr. Albert Johan",female,17,medium,7,0,0,7/9/2006
+108,"Rekic, Mr. Tido",female,16,easy,7,1,0,11/9/2007
+109,"Moran, Miss. Bertha",female,21,hard,5,1,0,4/15/2002
+110,"Porter, Mr. Walter Chamberlain",female,55,hard,20,1,2,9/6/1968
+111,"Zabour, Miss. Hileni",male,71,easy,16,0,0,2/7/1952
+112,"Barton, Mr. David John",male,21,easy,8,1,1,5/2/2002
+113,"Jussila, Miss. Katriina",male,16,easy,11,1,4,3/16/2007
+114,"Attalah, Miss. Malake",male,54,easy,13,1,3,5/26/1969
+115,"Pekoniemi, Mr. Edvard",female,23,medium,6,0,0,11/27/2000
+116,"Connors, Mr. Patrick",male,25,easy,20,1,1,3/19/1998
+117,"Turpin, Mr. William John Robert",male,24,easy,8,0,0,4/10/1999
+118,"Baxter, Mr. Quigg Edmond",male,17,easy,20,1,3,5/20/2006
+119,"Andersson, Miss. Ellis Anna Maria",female,21,medium,16,0,0,6/17/2002
+120,"Hickman, Mr. Stanley George",female,19,easy,5,0,0,12/21/2004
+121,"Moore, Mr. Leonard Charles",male,37,medium,22,0,0,7/12/1986
+122,"Nasser, Mr. Nicholas",male,16,medium,5,1,4,10/11/2007
+123,"Webber, Miss. Susan",female,18,easy,7,1,2,10/20/2005
+124,"White, Mr. Percival Wayland",male,33,medium,9,0,0,6/15/1990
+125,"Nicola-Yarred, Master. Elias",female,15,medium,14,0,0,11/19/2008
+126,"McMahon, Mr. Martin",female,28,easy,9,1,3,7/7/1995
+127,"Madsen, Mr. Fridtjof Arne",female,26,hard,14,1,2,9/27/1997
+128,"Peter, Miss. Anna",male,29,medium,22,1,0,9/16/1994
+129,"Ekstrom, Mr. Johan",male,17,hard,14,1,3,3/27/2006
+130,"Drazenoic, Mr. Jozef",female,36,hard,17,1,4,11/7/1987
+131,"Coelho, Mr. Domingos Fernandeo",male,54,easy,9,0,0,9/28/1969
+132,"Robins, Mrs. Alexander A (Grace Charity Laury)",male,24,easy,21,1,2,8/16/1999
+133,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",male,47,medium,20,0,0,5/1/1976
+134,"Sobey, Mr. Samuel James Hayden",male,34,easy,11,1,1,8/24/1989
+135,"Richard, Mr. Emile",male,31,easy,10,1,1,11/24/1992
+136,"Newsom, Miss. Helen Monypeny",male,36,easy,12,0,0,5/14/1987
+137,"Futrelle, Mr. Jacques Heath",male,32,easy,8,0,0,2/12/1991
+138,"Osen, Mr. Olaf Elon",male,30,medium,21,0,0,5/16/1993
+139,"Giglio, Mr. Victor",male,22,easy,5,1,3,6/26/2001
+140,"Boulos, Mrs. Joseph (Sultana)",female,27,easy,13,1,3,5/6/1996
+141,"Nysten, Miss. Anna Sofia",female,44,easy,9,1,4,11/27/1979
+142,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,40,medium,7,1,0,3/28/1983
+143,"Burke, Mr. Jeremiah",male,40,medium,22,0,0,11/18/1983
+144,"Andrew, Mr. Edgardo Samuel",female,50,medium,7,1,3,5/4/1973
+145,"Nicholls, Mr. Joseph Charles",male,24,medium,12,0,0,10/21/1999
+146,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,39,hard,6,1,2,4/6/1984
+147,"Ford, Miss. Robina Maggie ""Ruby""",male,23,easy,20,0,0,12/19/2000
+148,"Navratil, Mr. Michel (""Louis M Hoffman"")",female,21,easy,10,0,0,9/28/2002
+149,"Byles, Rev. Thomas Roussel Davids",male,19,hard,19,1,4,7/8/2004
+150,"Bateman, Rev. Robert James",female,17,easy,12,1,2,2/3/2006
+151,"Pears, Mrs. Thomas (Edith Wearne)",female,18,hard,7,0,0,7/26/2005
+152,"Meo, Mr. Alfonzo",male,30,medium,14,1,2,11/4/1993
+153,"van Billiard, Mr. Austin Blyler",male,18,hard,20,1,3,10/3/2005
+154,"Olsen, Mr. Ole Martin",female,45,medium,14,1,4,9/12/1978
+155,"Williams, Mr. Charles Duane",male,30,easy,15,1,2,11/21/1993
+156,"Gilnagh, Miss. Katherine ""Katie""",male,18,hard,10,1,3,3/13/2005
+157,"Corn, Mr. Harry",female,22,hard,21,0,0,2/22/2001
+158,"Smiljanic, Mr. Mile",female,36,hard,8,1,3,12/22/1987
+159,"Sage, Master. Thomas Henry",male,17,medium,13,1,1,12/27/2006
+160,"Cribb, Mr. John Hatfield",female,11,medium,12,1,0,2/28/2012
+161,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,32,easy,12,1,3,12/25/1991
+162,"Bengtsson, Mr. John Viktor",female,50,hard,17,1,4,8/6/1973
+163,"Calic, Mr. Jovo",female,64,easy,13,0,0,10/25/1959
+164,"Panula, Master. Eino Viljami",male,19,medium,17,1,2,1/16/2004
+165,"Goldsmith, Master. Frank John William ""Frankie""",male,18,easy,11,1,3,4/7/2005
+166,"Chibnall, Mrs. (Edith Martha Bowerman)",female,33,easy,8,0,0,3/6/1990
+167,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,26,easy,22,0,0,9/25/1997
+168,"Baumann, Mr. John D",male,17,hard,11,0,0,7/24/2006
+169,"Ling, Mr. Lee",female,27,hard,7,1,0,8/15/1996
+170,"Van der hoef, Mr. Wyckoff",female,20,medium,22,1,0,2/25/2003
+171,"Rice, Master. Arthur",male,22,easy,9,0,0,4/22/2001
+172,"Johnson, Miss. Eleanor Ileen",male,22,medium,12,0,0,3/22/2001
+173,"Sivola, Mr. Antti Wilhelm",female,62,medium,11,1,1,11/27/1961
+174,"Smith, Mr. James Clinch",female,48,easy,9,0,0,8/18/1975
+175,"Klasen, Mr. Klas Albin",male,21,hard,11,0,0,10/26/2002
+176,"Lefebre, Master. Henry Forbes",female,39,hard,12,0,0,4/26/1984
+177,"Isham, Miss. Ann Elizabeth",male,36,medium,13,1,3,11/7/1987
+178,"Hale, Mr. Reginald",female,25,easy,6,1,3,10/16/1998
+179,"Leonard, Mr. Lionel",female,40,easy,22,1,3,8/5/1983
+180,"Sage, Miss. Constance Gladys",female,28,medium,15,0,0,5/26/1995
+181,"Pernot, Mr. Rene",female,25,hard,6,1,3,10/22/1998
+182,"Asplund, Master. Clarence Gustaf Hugo",male,13,hard,20,0,0,7/19/2010
+183,"Becker, Master. Richard F",male,24,easy,20,0,0,3/14/1999
+184,"Kink-Heilmann, Miss. Luise Gretchen",male,19,medium,8,1,0,11/25/2004
+185,"Rood, Mr. Hugh Roscoe",female,29,easy,16,0,0,2/24/1994
+186,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",male,36,hard,6,0,0,8/18/1987
+187,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,32,easy,8,0,0,1/27/1991
+188,"Bourke, Mr. John",female,62,medium,6,1,4,11/3/1961
+189,"Turcin, Mr. Stjepan",male,53,hard,15,1,3,7/4/1970
+190,"Pinsky, Mrs. (Rosa)",male,36,easy,9,0,0,9/2/1987
+191,"Carbines, Mr. William",male,11,hard,9,0,0,6/19/2012
+192,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,16,medium,19,0,0,2/10/2007
+193,"Navratil, Master. Michel M",male,19,medium,8,1,4,8/20/2004
+194,"Brown, Mrs. James Joseph (Margaret Tobin)",male,34,easy,11,0,0,5/9/1989
+195,"Lurette, Miss. Elise",male,39,hard,6,1,2,10/14/1984
+196,"Mernagh, Mr. Robert",female,21,medium,18,0,0,4/16/2002
+197,"Olsen, Mr. Karl Siegwart Andreas",female,32,easy,17,0,0,2/11/1991
+198,"Madigan, Miss. Margaret ""Maggie""",female,25,easy,19,1,2,4/10/1998
+199,"Yrois, Miss. Henriette (""Mrs Harbeck"")",male,39,hard,5,0,0,4/24/1984
+200,"Vande Walle, Mr. Nestor Cyriel",male,54,hard,14,1,1,11/27/1969
+201,"Sage, Mr. Frederick",male,36,medium,6,0,0,9/12/1987
+202,"Johanson, Mr. Jakob Alfred",male,34,easy,13,1,4,1/1/1989
+203,"Youseff, Mr. Gerious",male,18,easy,9,1,2,3/5/2005
+204,"Cohen, Mr. Gurshon ""Gus""",male,47,medium,13,1,3,8/19/1976
+205,"Strom, Miss. Telma Matilda",male,60,medium,21,1,4,7/20/1963
+206,"Backstrom, Mr. Karl Alfred",male,22,medium,8,0,0,3/16/2001
+207,"Albimona, Mr. Nassef Cassem",female,25,hard,20,0,0,4/19/1998
+208,"Carr, Miss. Helen ""Ellen""",female,35,hard,16,0,0,12/4/1988
+209,"Blank, Mr. Henry",female,52,easy,11,1,3,7/25/1971
+210,"Ali, Mr. Ahmed",female,47,medium,7,1,2,8/13/1976
+211,"Cameron, Miss. Clear Annie",male,16,easy,6,0,0,6/26/2007
+212,"Perkin, Mr. John Henry",male,37,medium,19,0,0,12/24/1986
+213,"Givard, Mr. Hans Kristensen",female,36,hard,17,0,0,1/5/1987
+214,"Kiernan, Mr. Philip",male,37,hard,8,1,1,11/16/1986
+215,"Newell, Miss. Madeleine",male,49,medium,14,0,0,4/21/1974
+216,"Honkanen, Miss. Eliina",male,31,easy,11,1,4,5/26/1992
+217,"Jacobsohn, Mr. Sidney Samuel",female,49,hard,9,0,0,9/11/1974
+218,"Bazzani, Miss. Albina",female,24,medium,9,1,3,3/25/1999
+219,"Harris, Mr. Walter",female,22,medium,7,0,0,2/7/2001
+220,"Sunderland, Mr. Victor Francis",female,18,easy,22,1,4,2/25/2005
+221,"Bracken, Mr. James H",male,44,hard,6,0,0,1/1/1979
+222,"Green, Mr. George Henry",male,35,easy,16,1,0,2/27/1988
+223,"Nenkoff, Mr. Christo",male,36,hard,16,0,0,7/13/1987
+224,"Hoyt, Mr. Frederick Maxfield",male,30,easy,10,0,0,6/5/1993
+225,"Berglund, Mr. Karl Ivar Sven",female,27,medium,16,1,1,1/26/1996
+226,"Mellors, Mr. William John",female,22,easy,15,0,0,5/5/2001
+227,"Lovell, Mr. John Hall (""Henry"")",female,40,medium,19,1,0,6/9/1983
+228,"Fahlstrom, Mr. Arne Jonas",male,39,easy,7,0,0,12/17/1984
+229,"Lefebre, Miss. Mathilde",male,28,easy,13,1,0,3/9/1995
+230,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",male,32,hard,20,1,4,12/19/1991
+231,"Larsson, Mr. Bengt Edvin",female,31,hard,6,0,0,9/26/1992
+232,"Sjostedt, Mr. Ernst Adolf",female,35,medium,22,0,0,12/17/1988
+233,"Asplund, Miss. Lillian Gertrud",male,24,hard,19,1,0,11/28/1999
+234,"Leyson, Mr. Robert William Norman",female,34,hard,14,0,0,7/19/1989
+235,"Harknett, Miss. Alice Phoebe",male,26,hard,7,1,4,11/23/1997
+236,"Hold, Mr. Stephen",male,32,medium,13,1,3,12/21/1991
+237,"Collyer, Miss. Marjorie ""Lottie""",male,26,hard,17,1,1,2/4/1997
+238,"Pengelly, Mr. Frederick William",female,27,medium,21,1,1,1/13/1996
+239,"Hunt, Mr. George Henry",male,42,medium,19,1,2,12/13/1981
+240,"Zabour, Miss. Thamine",female,20,medium,20,0,0,8/23/2003
+241,"Murphy, Miss. Katherine ""Kate""",male,21,hard,22,0,0,9/15/2002
+242,"Coleridge, Mr. Reginald Charles",male,21,easy,15,1,3,4/19/2002
+243,"Maenpaa, Mr. Matti Alexanteri",male,61,hard,22,0,0,2/12/1962
+244,"Attalah, Mr. Sleiman",female,57,hard,18,1,3,9/13/1966
+245,"Minahan, Dr. William Edward",female,21,hard,22,1,2,10/17/2002
+246,"Lindahl, Miss. Agda Thorilda Viktoria",male,26,hard,12,1,1,10/9/1997
+247,"Hamalainen, Mrs. William (Anna)",female,51,hard,20,0,0,5/19/1972
+248,"Beckwith, Mr. Richard Leonard",male,80,hard,7,0,0,2/5/1943
